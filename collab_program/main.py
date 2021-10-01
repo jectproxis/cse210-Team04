@@ -1,6 +1,6 @@
-from collab_program.jackson import display_jeremy
-from collab_program.osguthorpe import sarah_intro
-from collab_program.penman import aiden_intro
+from jackson import display_jeremy
+from osguthorpe import sarah_intro
+from penman import aiden_intro
 
 def main():
   print("Welcome to our collaborative program.")
